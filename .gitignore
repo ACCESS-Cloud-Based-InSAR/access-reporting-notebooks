@@ -1,0 +1,24 @@
+# Deprecated Folder
+_deprecated/
+
+# OS Files
+**/.DS_Store
+**/.DS_Store?
+
+# vscode
+.vscode
+
+# env file
+.env
+
+# Vim files
+*.sw[mnop]
+
+# Notebooks used for experiments
+experimental/
+
+# Geofiles
+*.geojson
+
+# Jupyter files
+*.ipynb_checkpoints
