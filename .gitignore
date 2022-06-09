@@ -20,5 +20,10 @@ experimental/
 # Geofiles
 *.geojson
 
+# Pickle files
+*.pickle
+*.pkl
+
+
 # Jupyter files
 *.ipynb_checkpoints
